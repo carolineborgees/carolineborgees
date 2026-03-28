@@ -1,6 +1,6 @@
 # Hi, I'm Caroline 👋
 
-**Senior Data Analyst** at Dexco · Jundiaí, SP, Brazil
+**Mid-Level Data Analyst** at Dexco · Jundiaí, SP, Brazil
 
 I turn data into decisions — from strategic dashboards presented to C-level executives to automations that eliminate hours of manual work. Passionate about data, automation, and real business impact.
 
