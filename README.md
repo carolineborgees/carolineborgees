@@ -1,12 +1,30 @@
-# Hi, I'm Caroline 👋
+<div align="center">
 
-**Mid-Level Data Analyst** at Dexco · Jundiaí, SP, Brazil
+![header](https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=180&section=header&text=Hi,%20I'm%20Caroline!%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20%7C%20Automation&descAlignY=58&descSize=18)
 
-I turn data into decisions — from strategic dashboards presented to C-level executives to automations that eliminate hours of manual work. Passionate about data, automation, and real business impact.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions+📊;Automating+everything+that+can+be+automated+⚡;Power+BI+%7C+SQL+%7C+Python+%7C+Databricks;Always+learning%2C+always+shipping+🚀)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=carolineborgees&color=7C3AED&style=flat&label=profile+views" alt="profile views" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 👩🏽‍💻 About me
+```python
+caroline = {
+    "role":       "Mid-Level Data Analyst @ Dexco",
+    "location":   "Jundiaí, SP 🇧🇷",
+    "focus":      ["Business Intelligence", "Automation", "Data Engineering"],
+    "learning":   ["Python for Data", "Machine Learning", "MLOps"],
+    "languages":  ["Portuguese 🇧🇷 (native)", "English 🇺🇸 (C2)", "Spanish 🇪🇸 (B2)"],
+    "fun_fact":   "I once automated a 3h/day manual report. 720h/year back to the team ⚡"
+}
+```
+
+---
+
+### 🛠️ Tech Stack
 
 **BI & Visualization**
 
@@ -29,58 +47,70 @@ I turn data into decisions — from strategic dashboards presented to C-level ex
 
 ---
 
-## 📌 Featured Projects
+### 📊 GitHub Stats
 
-### 🔍 [sql-portfolio](https://github.com/carolineborgees/sql-portfolio)
-Real-world SQL queries: window functions, CTEs, aggregations and business-driven analyses — all with anonymized data.
+<div align="center">
 
-### 🐍 [python-studies](https://github.com/carolineborgees/python-studies)
-My Python learning journey — exercises, challenges and mini-projects. Continuously updated.
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=carolineborgees&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineborgees&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" />
 
-### 📊 [data-analysis-projects](https://github.com/carolineborgees/data-analysis-projects)
-Exploratory data analyses using Pandas and Matplotlib with public datasets. Focus on data modeling and storytelling.
+</div>
 
----
+<div align="center">
 
-## 📈 What I'm Learning Now
+![GitHub Streak](https://streak-stats.demolab.com?user=carolineborgees&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&background=0d1117)
 
-- Python for data (Pandas, NumPy)
-- Machine Learning — beginning the journey
-- Data engineering best practices
+</div>
 
 ---
 
-## 🏆 Some Numbers From My Work
+### 💼 Professional Highlights
 
-- **20+** dashboards built and maintained
-- **50+** internal users served across multiple business areas
-- **14** external franchisees with secure access via Row-Level Security (RLS)
-- **720h/year** freed by automating a fully manual reporting process
-- **~R$ 10M** in fiscal risk mitigated through data analysis
-
----
-
-## 🎓 Education & Certifications
-
-- B.Sc. Environmental Engineering — UNESP Sorocaba
-- Lean Six Sigma Green Belt
-- Probability & Statistics for Data Science — USP/ICMC
-- Complex Networks with Python & LLMs — USP/ESALQ
-- Published paper at [AGRIS/FAO](https://agris.fao.org/search/en/providers/125526/records/68cad8a3f61e5b80b5e92729) — Georeferenced Spatial Data Analysis
+- Designed and deployed end-to-end BI solutions, from data modeling to executive dashboards
+- Built data automation pipelines that eliminated manual processes and freed team capacity
+- Implemented secure data sharing architecture for external stakeholders using RLS
+- Developed analytical alerts integrated with ERP systems to support critical business decisions
+- Delivered data-driven insights directly to C-level forums and board meetings
+- Currently expanding into Python for data, Machine Learning and data engineering
 
 ---
 
-## 🌍 Languages
+### 📌 Featured Projects
 
-🇧🇷 Portuguese (native) · 🇺🇸 English C2 (fluent) · 🇪🇸 Spanish B2
+🔍 **[sql-portfolio](https://github.com/carolineborgees/sql-portfolio)**
+Real-world SQL queries: window functions, CTEs, aggregations — anonymized but battle-tested.
+
+🐍 **[python-studies](https://github.com/carolineborgees/python-studies)**
+My Python journey, one commit at a time. Exercises, challenges, mini-projects.
+
+📊 **[data-analysis-projects](https://github.com/carolineborgees/data-analysis-projects)**
+EDA notebooks with public datasets. Pandas, Matplotlib, storytelling with data.
+
+> 💡 *Corporate projects are under NDA — technical details available on request.*
 
 ---
 
-## 📬 Let's Connect
+### 🎓 Education & Certifications
+
+- 🎓 B.Sc. Environmental Engineering — UNESP Sorocaba
+- 🟢 Lean Six Sigma Green Belt
+- 📐 Probability & Statistics for Data Science — USP/ICMC
+- 🤖 Complex Networks with Python & LLMs — USP/ESALQ
+- 📝 Published paper at [AGRIS/FAO](https://agris.fao.org/search/en/providers/125526/records/68cad8a3f61e5b80b5e92729) — Georeferenced Spatial Data Analysis
+
+---
+
+### 📬 Let's connect
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-costa-borges/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caroline.borges.inbox@gmail.com)
 
----
+</div>
 
-*"Data without context is just numbers. Data with context is decisions."*
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer)
+
+</div>
