@@ -18,7 +18,7 @@ caroline = {
     "focus":      ["Business Intelligence", "Automation", "Data Engineering"],
     "learning":   ["Python for Data", "Machine Learning", "MLOps"],
     "languages":  ["Portuguese 🇧🇷 (native)", "English 🇺🇸 (C2)", "Spanish 🇪🇸 (B2)"],
-    "fun_fact":   "I once automated a 3h/day manual report. 720h/year back to the team ⚡"
+    "fun_fact": "Environmental Engineer who fell in love with data — turns out nature and numbers have a lot in common 🌿📊
 }
 ```
 
