@@ -18,7 +18,7 @@ caroline = {
     "focus":      ["Business Intelligence", "Automation", "Data Engineering"],
     "learning":   ["Python for Data", "Machine Learning", "MLOps"],
     "languages":  ["Portuguese 🇧🇷 (native)", "English 🇺🇸 (C2)", "Spanish 🇪🇸 (B2)"],
-    "fun_fact":   ["Environmental Engineer who fell in love with data — turns out nature and numbers have a lot in common"]
+    "fun_fact":   ["Environmental Engineer who fell in love with data"]
 }
 ```
 
